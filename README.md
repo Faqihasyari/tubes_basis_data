@@ -1,7 +1,5 @@
 # tubes_basis_data
 A new Flutter project.
-#my project
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
