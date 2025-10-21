@@ -1,16 +1,6 @@
-# tubes_basis_data
-A new Flutter project.
+# 📚 Aplikasi Manajemen Buku
 
-This project is a starting point for a Flutter application.
-my tubes basis data flutter
-cancel project because mr sabar not installed flutter
+Proyek ini merupakan **Tugas Besar Basis Data** yang dibuat untuk mengelola data buku secara terstruktur menggunakan sistem database.  
+Aplikasi ini membantu pengguna dalam melakukan operasi **CRUD (Create, Read, Update, Delete)** terhadap data buku dan anggota dengan tampilan yang sederhana namun fungsional.
 
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
