@@ -22,3 +22,14 @@ Proyek ini dibuat untuk:
 - 🔄 Peminjaman dan pengembalian buku.  
 - 🕓 Riwayat peminjaman.  
 - 💾 Tersambung langsung dengan **database MySQL/SQLite**.  
+
+---
+
+## ⚙️ Teknologi yang Digunakan
+
+- **Frontend:** Python (Tkinter) / Flutter / Laravel *(sesuaikan dengan proyekmu)*  
+- **Backend:** PHP / Python  
+- **Database:** MySQL / SQLite  
+- **Tools:** phpMyAdmin / DBeaver / Visual Studio Code  
+
+---
