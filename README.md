@@ -18,3 +18,4 @@ Proyek ini dibuat untuk:
 ## 🧩 Fitur Utama
 
 - ✨ Tambah, ubah, hapus, dan cari data buku.  
+- 👥 Kelola data anggota (peminjam buku).  
