@@ -14,3 +14,7 @@ Proyek ini dibuat untuk:
 - Membuat aplikasi yang dapat digunakan untuk **mengelola koleksi buku** secara efisien.
 
 ---
+
+## 🧩 Fitur Utama
+
+- ✨ Tambah, ubah, hapus, dan cari data buku.  
